@@ -1,0 +1,35 @@
+body{
+    background-color: #fff8dcc2;
+    border: 1px solid;
+    border-color: rgb(228, 233, 167);
+}
+#img{
+    padding-left: 10px;
+    padding-top: 0px;
+}
+hr{
+    border-bottom:0px;
+}
+h1{
+    color: #00CED1;
+}
+h3{
+    color: #00CED1;
+}
+image{
+    padding-top: 0px;
+}
+table{
+    width :100%
+}
+th{
+    text-align: left;
+}
+#course{
+    width: 50%;
+}
+#T2{
+    background-color: cadetblue;
+    padding-left: 10px;
+    padding-right:10px;
+}
